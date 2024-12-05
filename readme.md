@@ -20,7 +20,9 @@
 
 [DML запити](p2_dml.sql)
 
+#### Перевірки
+
 ![Перевірка унікальності в entity](p2_entity_check.png)
 
-![Перевірка унікальності в entity](p2_cases_check.png)
+![кількість записів в cases](p2_cases_check.png)
 
